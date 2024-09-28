@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+//mini projet//
 #include <stdio.h>
 #include <string.h>
 
